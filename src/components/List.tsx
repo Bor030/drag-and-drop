@@ -76,7 +76,7 @@ export function List({ data }: Props) {
     }
 
     return (
-        <div className="flex flex-col gap-2 w-1/2 mx-auto">
+        <div className="flex flex-col gap-2 w-1/2 mx-auto bg-black bg-opacity-50 p-6 rounded">
             {items?.length ? (
                 <DndContextWithNoSSR
                     sensors={sensors}

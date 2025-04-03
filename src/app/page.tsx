@@ -10,7 +10,7 @@ export default async function Home() {
   const data = await getData()
 
   return (
-    <main className="flex min-h-dvh p-8">
+    <main className="flex min-h-dvh p-8 ">
       <List data={data} />
     </main>
   )
