@@ -7,7 +7,7 @@ import { AudioPlayerProvider } from "@/context/AudioPlayerContext"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Create drag&drop",
+  title: "My workout playlist",
   description: "design by alex030",
 };
 

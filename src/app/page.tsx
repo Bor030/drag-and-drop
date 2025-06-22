@@ -20,7 +20,7 @@ export default async function Page() {
 
  <div className="flex flex-col items-end w-full max-w-2xl mx-auto px-4 mt-4">
   <LikeButton />
-</div>
+ </div>
 
 
   </div>

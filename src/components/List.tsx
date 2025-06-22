@@ -104,7 +104,7 @@ useEffect(() => {
             /></div>
             
             <h1 className="text-4xl sm:text-5xl font-extrabold text-white tracking-tight text-center drop-shadow-md animate-fade-in  mb-[-6px] mt-[180px]">
-            My Workout Playlist
+            Killer Reps Radio
             </h1>
 
         <div className="flex flex-col gap-2 w-full max-w-2xl mx-auto bg-black bg-opacity-50 p-4 sm:p-6 rounded">
